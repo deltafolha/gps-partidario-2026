@@ -1,0 +1,6 @@
+dados/brutos/*
+!dados/brutos/dados-externos/
+dados/interim/
+dados/processado/
+logs/
+.Rhistory
